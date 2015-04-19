@@ -1,3 +1,13 @@
+*.project
+*.classpath
+*LICENSE*
+.idea/*
+target/*
+.settings/*
+*.class
+*.iml
+tomcat*/
+
 *.class
 
 # Mobile Tools for Java (J2ME)
@@ -57,3 +67,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/target/
