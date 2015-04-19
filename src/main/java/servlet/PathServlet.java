@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
         name = "pathGoogle", 
         urlPatterns = {"/path"}
     )
-public class HelloServlet extends HttpServlet {
+public class PathServlet extends HttpServlet {
 
   private static final long serialVersionUID = -930386857509367419L;
 

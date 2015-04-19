@@ -5,7 +5,7 @@
   <artifactId>awtrip</artifactId>
   <version>0.1</version>
   <packaging>jar</packaging>
-  <name>awtrip Webapp</name>
+  <name>awtrip</name>
   <url>awtrip.avelit.biz</url>
   <properties>
     <tomcat.version>7.0.59</tomcat.version>
